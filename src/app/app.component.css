@@ -1,0 +1,103 @@
+.rowBackground {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#333), to(#111));
+    background-image: -webkit-linear-gradient(top, #333, #111);
+    background-image: -moz-linear-gradient(top, #333, #111);
+    background-image: linear-gradient(to bottom, #333, #111);
+    
+}
+.rowPlaceOverall{
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    border-radius: 8px 0px 0px 0px;
+    margin: .1vh;
+    padding: .1vh;
+    height: 8vh;
+    font-size: 7vh;
+    width: 4vw;
+    text-align: center;
+}
+.rowPlaceClass{
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    margin: .1vh;
+    padding: .1vh;
+    height: 8vh;
+    font-size: 7vh;
+    width: 4vw;
+    text-align: center;
+}
+.rowCarNumber{
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    margin: .1vh;
+    padding: .1vh;
+    height: 8vh;
+    font-size: 7vh;
+    width: 6vw;
+    text-align: center;
+}
+.rowTeamDriverBlock {
+    display: inline-block;
+    width: 20vw;
+}
+.rowTeamName {
+    font-weight: bold;
+
+
+    font-size: 3vh; 
+    width: 20vw;
+}
+.rowDriverName {
+    font-size: 1.5vh;
+    width: 20vw;  
+}
+.rowLaps {
+    display: inline-block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    margin: .1vh;
+    padding: .1vh;
+    height: 8vh;
+    font-size: 7vh;
+    width: 6vw;
+}
+.rowGap {
+    display: inline-block;
+    text-align: right;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    padding: .5vw;
+    height: 8vh;
+    font-size: 3vh;
+    width: 10vw;
+}
+.rowLeaderGap {
+    display: inline-block;
+    text-align: right;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    padding: .5vw;
+    height: 8vh;
+    font-size: 3vh;
+    width: 10vw;
+}
+.rowPaceGap {
+    display: inline-block;
+    text-align: right;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777;
+    padding: .5vw;
+    height: 8vh;
+    font-size: 3vh;
+    width: 10vw;
+}
